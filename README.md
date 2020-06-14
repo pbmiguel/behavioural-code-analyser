@@ -1,5 +1,7 @@
 # Behavioural Code Analysis Tool
 
+Behavioural Code Analysis Tool. It makes use of Kibana visualization tools for a customizable analysis.
+
 ### Given a list of commits this tool will analyse them and organize it from an author, file, and coupling perspectives.
 
 ### The JS script will ingest the analysis into Elastic Search, which is then accessible from Kibana.
