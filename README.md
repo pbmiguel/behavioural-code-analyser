@@ -23,6 +23,6 @@ Not having a main maintainer, a file can become a chaotic expression of ideas. I
 
 ## (c) Setup the Elastic Search and Kibana `run docker-compose.yml`
 
-## (e) Run the JS script `npm main.js commitsPath=\"..\use-cases\react\all.commits.txt\"`
+## (e) Run the JS script `node main.js commitsPath=\"..\use-cases\react\all.commits.txt\"`
 
 ## (f) Go To Kibana `http://localhost:5601/` and setup the dashboards whatever the way it's more suitable for you
